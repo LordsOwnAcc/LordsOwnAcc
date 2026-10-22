@@ -45,11 +45,11 @@ public class Sumit implements BackendEngineer, MLEngineer {
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**SafePay**](https://github.com/LordsOwnAcc/safepay) | A digital wallet and payments REST API built with Spring Boot | `Java` `Spring Boot`  |
 | [**Gita_Api**](https://github.com/LordsOwnAcc/Gita_Api) | Public REST API serving Bhagavad Gita content | `Java` `Spring Boot` |
 | [**VentureNest**](https://github.com/LordsOwnAcc/VentureNest) | Android app with an AI chatbot, built on Retrofit | `Kotlin` `Retrofit` |
 | [**InternetArchived**](https://github.com/LordsOwnAcc/InternetArchived) | Native client to search and stream Internet Archive content | `Kotlin` `Jetpack Compose` |
-| [**GetWeathered**](https://github.com/LordsOwnAcc/GetWeathered-Location-Based-Weather-and-Map-Integration-System) | Location-based weather with map integration | `Java` |
-| [**ML_Journey**](https://github.com/LordsOwnAcc/ML_Journey) | My machine learning notebooks, mistakes included | `Python` `Jupyter` |
+| [**ResIntel**](https://github.com/LordsOwnAcc/Res_handle) | Web version of the Resume Intelligence & Job Application Manager | `Java`  `Spring Boot` |
 | [**OIBSIP**](https://github.com/LordsOwnAcc/OIBSIP) | Internship task submissions | `Java` |
 
 ---
