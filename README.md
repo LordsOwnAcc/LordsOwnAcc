@@ -49,7 +49,7 @@ public class Sumit implements BackendEngineer, MLEngineer {
 | [**Gita_Api**](https://github.com/LordsOwnAcc/Gita_Api) | Public REST API serving Bhagavad Gita content | `Java` `Spring Boot` |
 | [**VentureNest**](https://github.com/LordsOwnAcc/VentureNest) | Android app with an AI chatbot, built on Retrofit | `Kotlin` `Retrofit` |
 | [**InternetArchived**](https://github.com/LordsOwnAcc/InternetArchived) | Native client to search and stream Internet Archive content | `Kotlin` `Jetpack Compose` |
-| [**ResIntel**](https://github.com/LordsOwnAcc/Res_handle) | Web version of the Resume Intelligence & Job Application Manager | `Java`  `Spring Boot` |
+| [**ResIntel**](https://github.com/LordsOwnAcc/Sorting_Desk) | Web version of the Resume Intelligence & Job Application Manager | `Java`  `Spring Boot` |
 | [**OIBSIP**](https://github.com/LordsOwnAcc/OIBSIP) | Internship task submissions | `Java` |
 
 ---
