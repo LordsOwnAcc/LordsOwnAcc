@@ -74,13 +74,6 @@ public class Sumit implements BackendEngineer, MLEngineer {
   <img src="https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
----
-### 📡 Live Telemetry
-
-<p align="center">
-  <img width="48%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LordsOwnAcc&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;count_private=true" />
-  <img width="48%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordsOwnAcc&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;langs_count=8" />
-</p>
 
 ---
 
