@@ -4,7 +4,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/LordsOwnAcc">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=I+build+APIs+that+don't+fall+over.;I+teach+models+to+stop+hallucinating.;Java+%E2%86%92+Spring+Boot+%E2%86%92+Python+%E2%86%92+Kotlin.;Final+year.+Shipping+anyway." alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=I+build+APIs+that+don't+fall+over.;I+turn +it+works+on+my+machine+into+it+works+everywhere.;Java+%E2%86%92+Spring+Boot+%E2%86%92+Python+%E2%86%92+Kotlin.;Final+year.+Shipping+anyway." alt="typing" />
   </a>
 </p>
 
@@ -49,8 +49,8 @@ public class Sumit implements BackendEngineer, MLEngineer {
 | [**Gita_Api**](https://github.com/LordsOwnAcc/Gita_Api) | Public REST API serving Bhagavad Gita content | `Java` `Spring Boot` |
 | [**VentureNest**](https://github.com/LordsOwnAcc/VentureNest) | Android app with an AI chatbot, built on Retrofit | `Kotlin` `Retrofit` |
 | [**InternetArchived**](https://github.com/LordsOwnAcc/InternetArchived) | Native client to search and stream Internet Archive content | `Kotlin` `Jetpack Compose` |
-| [**ResIntel**](https://github.com/LordsOwnAcc/Sorting_Desk) | Web version of the Resume Intelligence & Job Application Manager | `Java`  `Spring Boot` |
-| [**OIBSIP**](https://github.com/LordsOwnAcc/OIBSIP) | Internship task submissions | `Java` |
+| [**IAAC using Terraform**](https://github.com/LordsOwnAcc/aws-terraform-cicd) | AWS Infrastructure as Code + CI/CD Pipeline | `Java`  `Spring Boot` |
+| [**Azure Deployment with Bicep**](https://github.com/LordsOwnAcc/OIBSIP) | Azure Deployment with Bicep  | `Bicep` `Azure`|
 
 ---
 
