@@ -75,12 +75,11 @@ public class Sumit implements BackendEngineer, MLEngineer {
 </p>
 
 ---
-
 ### 📡 Live Telemetry
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LordsOwnAcc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordsOwnAcc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img width="48%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LordsOwnAcc&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;count_private=true" />
+  <img width="48%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordsOwnAcc&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;langs_count=8" />
 </p>
 
 ---
