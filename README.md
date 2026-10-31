@@ -4,7 +4,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/LordsOwnAcc">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=I+build+APIs+that+don't+fall+over.;I+turn +it+works+on+my+machine+into+it+works+everywhere.;Java+%E2%86%92+Spring+Boot+%E2%86%92+Python+%E2%86%92+Kotlin.;Final+year.+Shipping+anyway." alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=I+build+APIs+that+don%27t+fall+over.;I+turn+%22it+works+on+my+machine%22+into+%22it+works+everywhere.%22;Java+%E2%86%92+Spring+Boot+%E2%86%92+Python+%E2%86%92+Kotlin.;Final+year.+Shipping+anyway." alt="typing" />
   </a>
 </p>
 
