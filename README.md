@@ -1,5 +1,5 @@
 <!-- Header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=190&section=header&text=Sumit%20Yadav&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20%2B%20ML%20Engineer%20%C2%B7%20Android%20on%20the%20side&descAlignY=60&descSize=17" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=190&section=header&text=Sumit%20Yadav&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20%2B%20Cloud%20Engineer%20%C2%B7%20Android%20on%20the%20side&descAlignY=60&descSize=17" alt="banner" />
 
 <!-- Typing animation -->
 <p align="center">
