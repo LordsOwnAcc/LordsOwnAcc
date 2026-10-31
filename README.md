@@ -51,7 +51,7 @@ public class Sumit implements BackendEngineer, MLEngineer {
 | [**VentureNest**](https://github.com/LordsOwnAcc/VentureNest) | Android app with an AI chatbot, built on Retrofit | `Kotlin` `Retrofit` |
 | [**InternetArchived**](https://github.com/LordsOwnAcc/InternetArchived) | Native client to search and stream Internet Archive content | `Kotlin` `Jetpack Compose` |
 | [**IAAC using Terraform**](https://github.com/LordsOwnAcc/aws-terraform-cicd) | AWS Infrastructure as Code + CI/CD Pipeline | `Terraform`  `AWS` |
-| [**Azure Deployment with Bicep**](https://github.com/LordsOwnAcc/OIBSIP) | Azure Deployment with Bicep  | `Bicep` `Azure`|
+| [**Azure Deployment with Bicep**](https://github.com/LordsOwnAcc/azure-bicep-deploy) | Azure Deployment with Bicep  | `Bicep` `Azure`|
 
 ---
 
