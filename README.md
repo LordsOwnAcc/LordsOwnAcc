@@ -18,7 +18,7 @@ public class Sumit implements BackendEngineer, MLEngineer {
     String  college     = "CGC University, Mohali";
     String  degree      = "B.Tech CSE (2027)";
     String  currLoc     = "Punjab, India";
-    String  home        = "Punjab, India";
+    String  home        = "Maharashtra, India";
 
     String[] languages  = { "Java", "Python", "Kotlin", "SQL" };
     String[] frameworks = { "Spring Boot", "Jetpack Compose", "Retrofit" };
