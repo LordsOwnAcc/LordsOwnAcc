@@ -17,13 +17,14 @@ public class Sumit implements BackendEngineer, MLEngineer {
 
     String  college     = "CGC University, Mohali";
     String  degree      = "B.Tech CSE (2027)";
+    String  currLoc     = "Punjab, India";
     String  home        = "Punjab, India";
 
     String[] languages  = { "Java", "Python", "Kotlin", "SQL" };
-    String[] frameworks = { "Spring Boot", "Flask", "Jetpack Compose", "Retrofit" };
-    String[] tools      = { "Git", "Linux", "REST", "Jupyter" };
+    String[] frameworks = { "Spring Boot", "Jetpack Compose", "Retrofit" };
+    String[] tools      = { "Git", "Linux", "REST", "Jupyter", "Terraform", "Bicep"};
 
-    String   currentlyBuilding = "Production-grade backends + ML projects that actually run";
+    String   currentlyBuilding = "Production-grade backends + Cloud projects that actually run";
     String   currentlyLearning = "Flask, RAG systems, system design";
     String   lookingFor        = "Backend / ML internships and full-time roles";
 
@@ -49,7 +50,7 @@ public class Sumit implements BackendEngineer, MLEngineer {
 | [**Gita_Api**](https://github.com/LordsOwnAcc/Gita_Api) | Public REST API serving Bhagavad Gita content | `Java` `Spring Boot` |
 | [**VentureNest**](https://github.com/LordsOwnAcc/VentureNest) | Android app with an AI chatbot, built on Retrofit | `Kotlin` `Retrofit` |
 | [**InternetArchived**](https://github.com/LordsOwnAcc/InternetArchived) | Native client to search and stream Internet Archive content | `Kotlin` `Jetpack Compose` |
-| [**IAAC using Terraform**](https://github.com/LordsOwnAcc/aws-terraform-cicd) | AWS Infrastructure as Code + CI/CD Pipeline | `Java`  `Spring Boot` |
+| [**IAAC using Terraform**](https://github.com/LordsOwnAcc/aws-terraform-cicd) | AWS Infrastructure as Code + CI/CD Pipeline | `Terraform`  `AWS` |
 | [**Azure Deployment with Bicep**](https://github.com/LordsOwnAcc/OIBSIP) | Azure Deployment with Bicep  | `Bicep` `Azure`|
 
 ---
@@ -67,6 +68,10 @@ public class Sumit implements BackendEngineer, MLEngineer {
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
 ---
